@@ -10,7 +10,7 @@ namespace Assignment1_bitm
     {
         static void Main(string[] args)
         {
-            string name;
+          /*  string name;
             string age;
             string address;
             string contact;
@@ -31,8 +31,29 @@ namespace Assignment1_bitm
             Console.WriteLine("Name: "+name);
             Console.WriteLine("Age: " +age);
             Console.WriteLine("Address: " +address);
-            Console.WriteLine("Contact: " +contact);
-            Console.ReadKey();
+            Console.WriteLine("Contact: " +contact);*/
+
+            string[] data = new string[100];
+            
+                Console.WriteLine("Enter your name");
+                data[0] = Console.ReadLine();
+                Console.WriteLine("Enter your Age");
+                data[1] = Console.ReadLine();
+                Console.WriteLine("Enter your Address");
+                data[2] = Console.ReadLine();
+                Console.WriteLine("Enter your Contact");
+                data[3] = Console.ReadLine();
+                // Console.WriteLine(data[0] + data[1] +data[2] +data[3]);
+                Console.WriteLine();
+                Console.WriteLine("Name: " + data[0]);
+                Console.WriteLine("Age: " + data[1]);
+                Console.WriteLine("Address: " + data[2]);
+                Console.WriteLine("Contact: " + data[3]);
+
+
+
+                Console.ReadKey();
+            
 
         }
     }
