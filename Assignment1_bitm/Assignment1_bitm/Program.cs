@@ -66,10 +66,12 @@ namespace Assignment1_bitm
             Console.WriteLine("Contact: " +contact);*/
             
                 info f = new info();
-                for (int i = 1; i <= 100; i++)
+                for (int i = 0; i <= 100; i++)
                 {
                     f.infodata();
+                    
                 }
+                Console.WriteLine("Press Any key to continiue..");
 
         }
     }
