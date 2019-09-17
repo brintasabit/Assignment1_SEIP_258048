@@ -1,0 +1,12 @@
+D:\BITM\VS\Assignment1_bitm\Assignment1_bitm\bin\Debug\Assignment1_bitm.exe.config
+D:\BITM\VS\Assignment1_bitm\Assignment1_bitm\bin\Debug\Assignment1_bitm.exe
+D:\BITM\VS\Assignment1_bitm\Assignment1_bitm\bin\Debug\Assignment1_bitm.pdb
+D:\BITM\VS\Assignment1_bitm\Assignment1_bitm\obj\Debug\Assignment1_bitm.exe
+D:\BITM\VS\Assignment1_bitm\Assignment1_bitm\obj\Debug\Assignment1_bitm.pdb
+D:\BITM\VS\Assignment1_bitm\Assignment1_bitm\obj\Debug\Assignment1_bitm.csprojResolveAssemblyReference.cache
+D:\BITM\Git\Assignment1_bitm\Assignment1_bitm\Assignment1_bitm\bin\Debug\Assignment1_bitm.exe.config
+D:\BITM\Git\Assignment1_bitm\Assignment1_bitm\Assignment1_bitm\obj\Debug\Assignment1_bitm.exe
+D:\BITM\Git\Assignment1_bitm\Assignment1_bitm\Assignment1_bitm\obj\Debug\Assignment1_bitm.pdb
+D:\BITM\Git\Assignment1_bitm\Assignment1_bitm\Assignment1_bitm\bin\Debug\Assignment1_bitm.exe
+D:\BITM\Git\Assignment1_bitm\Assignment1_bitm\Assignment1_bitm\bin\Debug\Assignment1_bitm.pdb
+D:\BITM\Git\Assignment1_bitm\Assignment1_bitm\Assignment1_bitm\obj\Debug\Assignment1_bitm.csprojResolveAssemblyReference.cache
